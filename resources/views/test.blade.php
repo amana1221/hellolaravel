@@ -8,9 +8,14 @@
   <p>Hello World!</p>
 Jun/04/2018<p />
 
- <p>{{$denwa}}</p>
+ //<p>{{$denwa}}</p>
  
- <p><?php echo $denwa; ?></p>
+ //<p><?php echo $denwa; ?></p>
+ 
+ <p>
+ りんごは{{$test_1}}
+ マスカットは{{$test_2}}
+ </p>
  
 </body>
 </html>
