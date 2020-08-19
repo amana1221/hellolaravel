@@ -16,7 +16,7 @@ class TestController extends Controller
      
      //return view('test')->with('denwa',"080");
         
-    $test_array = ["red","green", "blue"];
+    $test_array = ["red","green","blue"];
     
     return view('test',compact('test_array'));
         
