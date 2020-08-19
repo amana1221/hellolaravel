@@ -7,5 +7,9 @@
 <body>
   <p>Hello World!</p>
 Jun/04/2018<p />
+
+<p>
+    これは{{$test_1}}です
+</p>
 </body>
 </html>
