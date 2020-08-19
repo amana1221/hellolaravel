@@ -18,7 +18,7 @@ class TestController extends Controller
         
     $test_array = ["red","green", "blue"];
     
-    return view('test.normal',compact('test_array'));
+    return view('test',compact('test_array'));
         
     }
 }
