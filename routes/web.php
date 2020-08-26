@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('hello','HelloController@index');
 
 Route::get('test','TestController@index');
+
+Route::get('Taipei','TaipeiController@index');
+
+Route::get('EC','ECController@index');
