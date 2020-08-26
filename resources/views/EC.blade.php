@@ -5,11 +5,8 @@
   <title>My First Page</title>
 </head>
 <body>
-  <p>Hello World!</p>
-Jun/04/2018<p />
+  <p></p>
 
-<p>
-    これは{{$test_1}}です
-</p>
+
 </body>
 </html>
