@@ -8,14 +8,9 @@
   <p>Hello World!</p>
 Jun/04/2018<p />
 
- //<p>{{$denwa}}</p>
+ <p>{{$denwa}}</p>
  
- //<p><?php echo $denwa; ?></p>
- 
- <p>
- apple is {{$test_1}}
- leaf is {{$test_2}}
- </p>
+ <p><?php echo $denwa; ?></p>
  
 </body>
 </html>
